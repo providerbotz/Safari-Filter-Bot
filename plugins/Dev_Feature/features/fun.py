@@ -54,6 +54,7 @@ async def roll_dice(client, message):
         reply_to_message_id=rep_mesg_id
     )
 
+# CODE IS CREATED BY https://t.me/ProviderBotz PROVIDERBOTZ
 # EMOJI CONSTANTS
 TRY_YOUR_LUCK = "🎰"
 # EMOJI CONSTANTS
@@ -72,6 +73,7 @@ async def luck_cownd(client, message):
     )
 
 
+# CODE IS CREATED BY https://t.me/ProviderBotz PROVIDERBOTZ
 # EMOJI CONSTANTS
 GOAL_E_MOJI = "⚽"
 # EMOJI CONSTANTS
@@ -136,3 +138,6 @@ async def runs(_, message):
         await message.reply_to_message.reply_text(effective_string)
     else:
         await message.reply_text(effective_string)
+
+# CODE IS CREATED BY https://t.me/ProviderBotz PROVIDERBOTZ 
+# DO NOT REMOVE CREDIT....
